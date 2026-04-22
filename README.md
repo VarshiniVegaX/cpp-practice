@@ -24,8 +24,6 @@ It includes programs written while practicing core programming concepts and impr
 
 ---
 
-## 📂 Folder Structure---
-
 ## 🛠️ Language Used
 - C++
 
